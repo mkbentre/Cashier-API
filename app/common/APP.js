@@ -1,0 +1,2 @@
+const ACCESS_TOKEN = "3jfrAYpDikvAmGzE81tgpjSC7Hx5rs4vbgLXTCEpYP2mP010iM2quR810ULUcdBi"
+const TOKEN_TIME_LIFE = '1h'
